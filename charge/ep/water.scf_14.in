@@ -1,0 +1,39 @@
+&control
+    prefix = 'water-64'
+    calculation = 'scf'
+    restart_mode = 'from_scratch'
+    pseudo_dir = './'
+    verbosity = 'high'
+/
+&system
+    ibrav = 0
+    a = 0.0
+    nat = 3
+    ntyp = 2
+    ecutwfc = 40
+    ecutrho = 400
+    fde_kin_funct = 'revAPBEK'
+    nosym = .true.
+    fde_split_mix = .true.
+/
+&electrons
+    diagonalization = 'david'
+    conv_thr = 1e-8
+    mixing_beta = 0.7
+    electron_maxstep = 400
+/
+ATOMIC_SPECIES
+O   15.999     O.pbe-rrkjus.UPF
+H   1.00794    H.pbe-rrkjus.UPF
+K_POINTS (automatic)
+1 1 1 0 0 0
+
+CELL_PARAMETERS angstrom
+12.4278 0.0 0.0
+0.0 12.4278 0.0
+0.0 0.0 12.4278 
+
+ATOMIC_POSITIONS angstrom
+O 2.21 10.53 5.59
+H 3.17 10.58 5.54
+H 1.96 11.33 6.06

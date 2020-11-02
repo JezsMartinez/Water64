@@ -1,0 +1,32 @@
+#!/bin/bash
+
+#SBATCH --time=1-00:00:00
+#SBATCH --nodes=4
+#SBATCH --exclusive
+#SBATCH --ntasks=20
+#SBATCH --partition=nm3
+#SBATCH --job-name=water
+
+module purge
+module load intel/16.0.4 gcc
+
+#module load gnu
+#module swap mvapich2 openmpi/1.10.7
+module load openmpi
+#module load openblas
+
+#MPI_EXE=mpirun
+#FDE_EXE=/home/jt841/eqe/bin/fdepw.x
+#FDE_EXE=/home/prr34/My_EQE/bin/fdepw.x
+#FDE_EXE=/projects/mp1009_1/eQE/eqe_master/bin/fdepw.x
+#FDE_EXE=/projects/mp1009_1/pablo/EQEks/bin/fdepw.x
+
+FDE_EXE=/home/jam1042/eqe/bin/fdepw.x
+
+prefix=$1
+nfrags=$2
+
+# SRUN executes the command only on one processor per node. Useful for filesystem operations
+#$MPI_EXE -np 18 $FDE_EXE -ni $nfrags -in $prefix -nfp
+srun --mpi=pmi2 -n $nfrags $FDE_EXE -in $prefix -ni $nfrags -nfp
+

@@ -1,0 +1,1088 @@
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+     Program eQE v.0.2.0 starts on 18Apr2020 at 20: 4:34 
+
+     This program is based on the open-source Quantum ESPRESSO suite
+
+     Parallel version (MPI), running on    64 processors
+     path-images division:  nimage    =      64
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ frag_to_plot           1
+ alpha   2.80000000000000     
+ kji         149         149         149
+ before plot_io
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837792,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000003599,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ v_h_large_MT =    18393.6495196648     
+ v_h_large_MT Ehart =    35.6005795916865     
+ Number of electrons subsystem I:  (7.00000000003599,0.000000000000000E+000)
+ v_h_large Ehart =    1166.39050291882     
+ v_h_large =   0.000000000000000E+000
+ E_interaction =   -45.6425314106638     
+ frag_to_plot           1
+ Hartree_MT(g = 0) (1.42000061837388,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000001612,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ v_h_large_MT =    18393.6495196126     
+ v_h_large_MT Ehart =    34.6790703379551     
+ Number of electrons subsystem I:  (7.00000000001612,0.000000000000000E+000)
+ v_h_large Ehart =    1065.89927721495     
+ v_h_large =   0.000000000000000E+000
+ E_interaction =   -45.9184404188721     
+ frag_to_plot           1
+ Hartree_MT(g = 0) (1.42000061835662,0.000000000000000E+000)
+ Rho (g = 0) (6.99999999993103,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ v_h_large_MT =    18393.6495193891     
+ v_h_large_MT Ehart =    35.4425216926644     
+ Number of electrons subsystem I:  (6.99999999993103,0.000000000000000E+000)
+ v_h_large Ehart =    1094.83746013474     
+ v_h_large =   0.000000000000000E+000
+ E_interaction =   -46.3871950241896     
+ frag_to_plot           1
+ Hartree_MT(g = 0) (1.42000061836935,0.000000000000000E+000)
+ Rho (g = 0) (6.99999999999378,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ v_h_large_MT =    18393.6495195538     
+ v_h_large_MT Ehart =    35.3608936052559     
+ Number of electrons subsystem I:  (6.99999999999378,0.000000000000000E+000)
+ v_h_large Ehart =    1093.84878792893     
+ v_h_large =   0.000000000000000E+000
+ E_interaction =   -46.3798013018241     
+ frag_to_plot           1
+ Hartree_MT(g = 0) (1.42000061836644,0.000000000000000E+000)
+ Rho (g = 0) (6.99999999997944,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ v_h_large_MT =    18393.6495195162     
+ v_h_large_MT Ehart =    35.3709945644843     
+ Number of electrons subsystem I:  (6.99999999997944,0.000000000000000E+000)
+ v_h_large Ehart =    1093.83248171946     
+ v_h_large =   0.000000000000000E+000
+ E_interaction =   -46.3894830786164     
+ frag_to_plot           1
+ Hartree_MT(g = 0) (1.42000061836670,0.000000000000000E+000)
+ Rho (g = 0) (6.99999999998070,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ v_h_large_MT =    18393.6495195195     
+ v_h_large_MT Ehart =    35.3736300960777     
+ Number of electrons subsystem I:  (6.99999999998070,0.000000000000000E+000)
+ v_h_large Ehart =    1093.62167229438     
+ v_h_large =   0.000000000000000E+000
+ E_interaction =   -46.3927191139782     
+ frag_to_plot           1
+ Hartree_MT(g = 0) (1.42000061838283,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000006024,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ v_h_large_MT =    18393.6495197284     
+ v_h_large_MT Ehart =    35.3719436048853     
+ Number of electrons subsystem I:  (7.00000000006024,0.000000000000000E+000)
+ v_h_large Ehart =    1093.61498265524     
+ v_h_large =   0.000000000000000E+000
+ E_interaction =   -46.3924650325913     
+ frag_to_plot           1
+ Hartree_MT(g = 0) (1.42000061836498,0.000000000000000E+000)
+ Rho (g = 0) (6.99999999997223,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ v_h_large_MT =    18393.6495194972     
+ v_h_large_MT Ehart =    35.3717617610774     
+ Number of electrons subsystem I:  (6.99999999997223,0.000000000000000E+000)
+ v_h_large Ehart =    1093.62973257449     
+ v_h_large =   0.000000000000000E+000
+ E_interaction =   -46.3924319155866     
+ frag_to_plot           1
+ Hartree_MT(g = 0) (1.42000061837323,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000001289,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ v_h_large_MT =    18393.6495196041     
+ v_h_large_MT Ehart =    35.3718016285461     
+ Number of electrons subsystem I:  (7.00000000001289,0.000000000000000E+000)
+ v_h_large Ehart =    1093.63450300086     
+ v_h_large =   0.000000000000000E+000
+ E_interaction =   -46.3924243808693     
+ frag_to_plot           1
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ v_h_large_MT =    18393.6495196760     
+ v_h_large_MT Ehart =    35.3717262299925     
+ Number of electrons subsystem I:  (7.00000000004027,0.000000000000000E+000)
+ v_h_large Ehart =    1093.63251528388     
+ v_h_large =   0.000000000000000E+000
+ E_interaction =   -46.3924039805435     
+ frag_to_plot           1
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ v_h_large_MT =    18393.6495196760     
+ v_h_large_MT Ehart =    35.3717262299925     
+ Number of electrons subsystem I:  (7.00000000004027,0.000000000000000E+000)
+ v_h_large Ehart =    1093.63251528388     
+ v_h_large =   0.000000000000000E+000
+ E_interaction =   -46.3924039805435     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ before wg_corr_h
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ EHART1   1093.63251528388     
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ EHART1   1093.63251528388     
+ before wg_corr_h
+ before wg_corr_h
+ alpha   2.80000000000000     
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ before wg_corr_h
+ before wg_corr_h
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ before wg_corr_h
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ before wg_corr_h
+ before wg_corr_h
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ before wg_corr_h
+ alpha   2.80000000000000     
+ before wg_corr_h
+ before wg_corr_h
+ alpha   2.80000000000000     
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ before wg_corr_h
+ alpha   2.80000000000000     
+ before wg_corr_h
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ alpha   2.80000000000000     
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ before wg_corr_h
+ alpha   2.80000000000000     
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ alpha   2.80000000000000     
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ before wg_corr_h
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ alpha   2.80000000000000     
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ kji         149         149         149
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ before plot_io
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ EHART2   35.3717262299925     
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ after plot_io
+ after write_wg_on_file_large
+ after plot_io
+ after write_wg_on_file_large
+ after plot_io
+ after write_wg_on_file_large
+ after plot_io
+ after write_wg_on_file_large
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ after plot_io
+ after write_wg_on_file_large
+ after plot_io
+ after write_wg_on_file_large
+ The correction to the Hartree Energy is   5.88764641230023     
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ The correction to the Hartree Energy is   5.88764641230023     
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ The correction to the Hartree Energy is   5.88764641230023     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ after plot_io
+ after write_wg_on_file_large
+ The correction to the Hartree Energy is   5.88764641230023     
+ after plot_io
+ after write_wg_on_file_large
+ after plot_io
+ after write_wg_on_file_large
+ The correction to the Hartree Energy is   5.88764641230023     
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ The correction to the Hartree Energy is   5.88764641230023     
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ EHART2   35.3717262299925     
+ EHART2   35.3717262299925     
+ EHART2   35.3717262299925     
+ EHART2   35.3717262299925     
+ EHART2   35.3717262299925     
+ EHART2   35.3717262299925     
+ EHART2   35.3717262299925     
+ EHART2   35.3717262299925     
+ EHART2   35.3717262299925     
+ EHART2   35.3717262299925     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ after plot_io
+ after write_wg_on_file_large
+ Hartree_MT(g = 0) (1.42000061837878,0.000000000000000E+000)
+ Rho (g = 0) (7.00000000004027,0.000000000000000E+000)
+ Omega   12953.2686687672     
+ after wg_corr_h
+ The correction to the Hartree Energy is   5.88764641230023     
+ EHART2   35.3717262299925     
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
+ Local_MT(g = 0) (-1.62285784956642,0.000000000000000E+000)
